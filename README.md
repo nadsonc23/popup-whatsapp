@@ -1,4 +1,4 @@
-# Pop-up flutuante do WhatsApp para sites, com captura de informações e integração com CRM
+# Pop-up flutuante do WhatsApp para sites, com captura de informações e integração com CRM + responsividade mobile
 
 🎯Contexto: Cliente solicitou a inserção de botão flutuante do WhatsApp em seu website, sem que gerasse um novo custo adicional de manutenção. As opções que tínhamos gratuitas ou possuíam limitação(não realizavam a captura das informações) ou não integravam com o sistema CRM do cliente.
 
